@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa6";
 export default function Social() {
   return (
     <Box>
-      <Heading py={"4"}>Find Me</Heading>
+      <Heading pt={"5"}>Find Me</Heading>
       <VStack float={"left"}>
         <Link href="https://github.com/nardiyansah"><FaGithub />nardiyansah</Link>
         <Link href="https://www.linkedin.com/in/nardiyansah/"><FaLinkedin />nardiyansah</Link>

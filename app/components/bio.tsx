@@ -2,7 +2,7 @@ import { Box, Heading, Span, TimelineConnector, TimelineContent, TimelineItem, T
 
 export default function Bio() {
   return (
-    <Box py={"3"}>
+    <Box pt={"5"}>
       <Heading>Bio</Heading>
       <TimelineRoot>
         <TimelineItem>

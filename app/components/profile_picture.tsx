@@ -1,6 +1,6 @@
 import { Center, Image } from "@chakra-ui/react";
 import { default as NextImage } from "next/image";
-import profilePict from "@/public/profile.jpg"
+import profilePict from "@/public/profile.png"
 
 export default function Profile() {
   return (
